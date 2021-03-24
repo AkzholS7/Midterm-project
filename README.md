@@ -1,1 +1,1 @@
-# Midterm-project
+# Midterm_project. Fast_typing
